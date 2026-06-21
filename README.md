@@ -11,7 +11,7 @@ experience across five room types.
 
 ## Demo
 
-- **Live demo** — https://egarrino.github.io/TreasureLensAI/
+- **Live demo** — https://treasurelens-ai.netlify.app/
 - **Video walkthrough** — https://youtu.be/r6d-lIeVIZg
 - **Event** — UC Berkeley AI Hackathon 2026
 
